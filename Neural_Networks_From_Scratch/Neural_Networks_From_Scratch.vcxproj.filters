@@ -18,5 +18,11 @@
     <ClCompile Include="Neural_Networks_From_Scratch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="video1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="video2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
