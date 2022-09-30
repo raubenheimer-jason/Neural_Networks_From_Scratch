@@ -16,8 +16,3 @@ int main()
 	//video_2();
 	video_3();
 }
-
-void video_3()
-{
-
-}
